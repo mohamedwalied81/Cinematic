@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "442428744110",
+    "firebase_url": "https://cinematic-yasso-2025-b507b-default-rtdb.firebaseio.com",
+    "project_id": "cinematic-yasso-2025-b507b",
+    "storage_bucket": "cinematic-yasso-2025-b507b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442428744110:android:cc26d9e6560432d9b5a83f",
+        "android_client_info": {
+          "package_name": "com.example.cinematic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gUCCr_mdIRkJgQyPyXQ1mWtGMxx0PrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
